@@ -6,5 +6,5 @@ current function only supports four type file read
 1. json
 2. jsonl
 3. txt
-4. pickle
-the more file supports coming soon... 
+4. pickle  
+- the more file supports coming soon... 
